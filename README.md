@@ -1,53 +1,62 @@
-# osnova — we build ai products
+# osnova -- we build ai products
 
-**hyper-saas** — a factory for custom ai-native applications
+**hyper-saas** -- a factory for custom ai-native applications
 
 engineered for the future agents, whatever they are
 
 ---
 
-## what is hyper-saas
+## ⚙️ what is hyper-saas
 
-**one codebase. every product we build.**
+one codebase. every product we build.
 
-hyper-saas is osnova's shared-source software asset — a living repository that powers every ai product we create. each engagement makes it stronger.
+hyper-saas is osnova's shared-source software asset -- a living repository that powers every ai product we create. each engagement makes it stronger.
 
-| the asset | the factory |
-|----------|-------------|
-| all the code. production-grade, battle-tested, evolving with every engagement | a dark software factory that automates development at scale — ai agents and pipelines that assemble, test, and deploy |
+### 💎 the asset
+
+all the code. a set of shared-source repositories -- production-grade, battle-tested, and evolving with every engagement. your product builds on everything we've built before.
+
+### 🏭 the factory
+
+the process. a dark software factory that automates development at scale -- ai agents and pipelines that assemble, test, and deploy from the asset.
+
+your first step into a multi-product ai platform.
 
 ---
 
-## what we build
+## 🛠️ what we build
 
 real products. real automation.
 
-| product | description |
+| product | what it does |
 |---------|-------------|
-| **cogit.bot** | ai agent platform — autonomous agents that build, deploy, and improve other agents |
+| **cogit.bot** | autonomous agents that build, deploy, and improve other agents |
 | **cogit.mail** | smart email processing, routing, and response generation |
-| **@order.processor** | end-to-end order intake, validation, and fulfillment — fully automated |
-| **@invoice.processor** | extract, validate, and process invoices without manual work |
+| **@order.processor** | end-to-end order intake, validation, and fulfillment |
+| **@invoice.processor** | extract, validate, and process invoices |
 | **company.bot** | ai-powered customer support across email, chat, and ticketing |
 
-software that builds itself — so you don't have to
+---
+
+## 🏆 products & trainings
+
+![moments](./media/Pasted%20image%2020250630195304.png)
+![orders](./media/Pasted%20image%2020250630185928.png)
+![testimonials](./media/Pasted%20image%2020241201175518.png)
+![trainings](./media/Screenshot%202025-09-07%20161011.png)
 
 ---
 
-## the advantage
+## 👥 who we build for
 
-| speed | price | quality |
-|-------|-------|---------|
-| **3× faster** — we ship in weeks, not months | **70% less** — enterprise quality at a fraction of the cost | **battle-tested** — best practices from every prior engagement |
+- **production enterprises** -- mid-sized companies building internal ai tools and platforms
+- **service companies** -- firms offering ai-native products to their clients
+- **governmental agencies** -- public institutions seeking secure, enterprise-grade ai solutions
 
-enterprise results without the enterprise price tag
+## ✉️ get in touch
 
----
+**web:** [osnova.services](https://osnova.services/)
 
-## get in touch
+**linkedin:** [company/osnova-gmbh](https://www.linkedin.com/company/osnova-gmbh/)
 
-[**Email us**](mailto:contact@osnova.services?subject=I%20want%20to%20build%20with%20OSNOVA&body=describe%20your%20idea%2C%20product%2C%20or%20project) — we'd love to talk. · [osnova.services](https://osnova.services/)
-
-we keep some of our most interesting work in private repositories. reach out and we'll see you soon.
-
-30-min intro call · no commitment · response within 24h
+**email:** contact@osnova.services
