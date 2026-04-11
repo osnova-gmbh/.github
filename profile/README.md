@@ -1,6 +1,6 @@
 # osnova -- we build ai products
 
-![osnova landing](../media/osnova-landing-screen.png)
+![osnova landing](../media/image.png)
 
 **hyper-saas** -- a factory for custom ai-native applications
 
